@@ -53,4 +53,3 @@ To trigger the new deployment, either use:
 
 - The *Manual Deployment* feature of our GitHub or Gitlab
 - `git push` deployment after adding an empty commit to your project `git commit --allow-empty -m "New deployment to update logstash"`
-integration
